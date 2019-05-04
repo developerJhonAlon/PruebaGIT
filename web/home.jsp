@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Ejemplo de Hibernate</title>
+        <title>Ejemplo usando Hibernate</title>
     </head>
     <body>
         <h1>Ejemplo de Hibernate</h1>
